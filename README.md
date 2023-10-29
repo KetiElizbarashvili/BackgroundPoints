@@ -3,7 +3,7 @@ Points on background using three.js
 
 
 
-
+live - https://www.linkedin.com/static?_l=en_US 
 The code begins by defining an immediately invoked function expression (IIFE) to encapsulate its functionality. Inside this function, it initializes variables for dimensions (width and height), an HTML canvas element (canvas), a 2D rendering context (ctx), an array for points, and an object called target to track mouse position for interaction.
 
 It creates a grid of points on the canvas, where each point has x and y coordinates and stores its original position. The code then establishes connections between each point and its five closest neighbors, forming a network. These points are associated with small circles for rendering.
